@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# PyInstaller build outputs and temp files
+build/
+build_temp/
+dist/
+out/
+release/
+*.spec
+
+# Keep executable in repo (do NOT ignore .exe)
+# If you want to ignore all .exe except cs战术本.exe, use:
+# *.exe
+# !cs战术本.exe
+
+# OS / IDE junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
